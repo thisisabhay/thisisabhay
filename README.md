@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisabhay&label=Profile%20views&color=0e75b6&style=flat" alt="thisisabhay" /> </p>
 
+- 🔭 I’m currently working at **Geeksforgeek**
+
 - 🌱 I’m currently learning **Frontend and Backend**
 
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
