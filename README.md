@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Geeksforgeek**
 
-- 🌱 I’m currently learning **Frontend and Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
 
